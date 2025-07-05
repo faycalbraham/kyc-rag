@@ -64,9 +64,6 @@ pip install -r requirements.txt
 
 ## Utilisation
 
-```markdown
-## Utilisation
-
 ### 1️⃣ Lancer l’ingestion
 
 ```bash
@@ -74,12 +71,7 @@ python src/ingestion.py
 
 streamlit run src/app.py
 
-
 ---
-
-## Points d’attention
-
-```markdown
 ## Points d’attention
 
 - Pour l’OCR, pytesseract + pdf2image sont utilisés en fallback
