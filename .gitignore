@@ -1,0 +1,5 @@
+# Ne pas versionner les environnements ni données sensibles
+.venv_rag/
+chroma_db/
+unstructured_ocr.log
+token_huggingface.txt

@@ -1,0 +1,17 @@
+langchain>=0.2.0
+langchain-community>=0.2.0
+langchain-chroma>=0.2.0
+chromadb>=0.4.24
+sentence-transformers
+huggingface_hub
+transformers
+torch
+unstructured[all-docs]
+pdfminer.six
+pytesseract
+pdf2image
+tqdm
+streamlit
+gradio
+# poppler   installation système (pas pip)
+# tesseract installation système également (pas pip)
