@@ -66,7 +66,6 @@ pip install -r requirements.txt
 
 ### 1️⃣ Lancer l’ingestion
 
-```bash
 python src/ingestion.py
 
 streamlit run src/app.py
